@@ -1,0 +1,34 @@
+_repo: Fighting-ByngA-Novel-of-Mystery-Intrigue-and-Adventure_40821
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bird, Leslie Pern
+    aliases:
+    - Bird, L. Pern (Leslie Pern)
+    - Bird, Pern
+    gutenberg_agent_id: '40589'
+    url: http://www.gutenberg.org/2009/agents/40589
+covers:
+- cover_type: archival
+  image_path: 40821-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stone, A.
+    gutenberg_agent_id: '40834'
+    url: http://www.gutenberg.org/2009/agents/40834
+description: ''
+gutenberg_issued: '2012-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40821'
+  lccn: '19002848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Fighting Byng: A Novel of Mystery, Intrigue and Adventure'
+url: http://www.gutenberg.org/ebooks/40821
